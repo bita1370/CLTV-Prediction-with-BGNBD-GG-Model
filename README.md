@@ -1,0 +1,2 @@
+# CLTV-Prediction-with-BGNBD-GG-Model
+CLTV= Expected Number of Transaction * Expected Average Profit There are two statistical distributions to calculate CLTV and these are BG/NBD model and GG Submodel. Both models make predictions by reducing the mass to the person. The last version of formula is “CLTV= BG/NBD Model * GG Submodel”. In addition, this model helps to make predictions on any time period basis.
